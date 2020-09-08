@@ -3,6 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: dynamicstudio GmbH docs
+permalink: /
+nav_exclude: true
 ---
 
 # dynamicstudio GmbH documentation - SSOT
