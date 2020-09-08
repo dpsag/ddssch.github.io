@@ -6,3 +6,4 @@ nav_order: 1
 ---
 
 # Vue best practices: a deep dive
+
