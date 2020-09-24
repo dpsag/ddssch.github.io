@@ -66,6 +66,7 @@ The type and scope should always be lowercase as shown below.
 - **docs** - changes to the documentation
 - **style** - formatting, missing semi colons, etc; no production code change
 - **refactor** - refactoring production code, eg. renaming a variable
+- **impr** - improve a current implementation without adding a new feature or fixing a bug.
 - **test** - adding missing tests, refactoring tests; no production code change
 - **chore** - updating grunt tasks etc; no production code change
 - **perf** - change that improves performance
