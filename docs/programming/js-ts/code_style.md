@@ -7,7 +7,7 @@ nav_order: 1
 
 # Prettier and Eslint configurations
 
-In dynamicstudio we use prettier and eslint to format our codebase cohesively.
+In dpstudio we use prettier and eslint to format our codebase cohesively.
 
 ## Configuration
 

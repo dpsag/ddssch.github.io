@@ -11,7 +11,7 @@ nav_order: 1
 ## About the author:
 
 ### Roberto Cabassi Bombardieri
-Tech Lead @ dynamicstudio GmbH
+Tech Lead @ dpstudio AG
 
-r[dot]cabassi[at]dynamicstudio[dot]ch
+r[dot]cabassi[at]dpstudio[dot]ch
 * * *

@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: dynamicstudio SSOT
-email: info@dynamicstudio.ch
+title: dpstudio SSOT
+email: info@dpstudio.ch
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -34,14 +34,14 @@ remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
 
-color_scheme: ds
+color_scheme: dps
 aux_links:
-  "dynamicstudio website":
-    - "https://dynamicstudio.ch"
+  "dpstudio website":
+    - "https://dpstudio.ch"
 
 # Footer content
 # appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2017-2020 dynamicstudio GmbH."
+footer_content: "Copyright &copy; 2017-2020 dpstudio AG."
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
